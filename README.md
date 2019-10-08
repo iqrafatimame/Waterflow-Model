@@ -1,4 +1,5 @@
 # Water-Flow Methodology
+The Waterfall Model was the first Process Model to be introduced. It is also referred to as a linear-sequential life cycle model.
 In waterfal mathodology each phase must be completed before the next phase begins and there is no overlapping in the phase
 ## Advantages
 Some advantages of Waterfall methodology are following:
