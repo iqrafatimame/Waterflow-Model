@@ -1,4 +1,4 @@
-## Water Flow Mathodology
+# Water Flow Mathodology
 In waterfal mathodology each phase must be completed before the next phase begins and there is no overlapping in the phase
 ## Advantages
 Some advantages of Waterfall mathodology are following:
@@ -26,7 +26,9 @@ Some advantages of Waterfall mathodology are following:
   Waterfall methodology involves some specific steps so, it leaves no room for unexpected changes.
   
 + Excludes the Client/End User
+
     It's main purpose has always been to help internal teams move more efficiently through the phases of the project. It does not involves client.
     
  + Delays Testing After Completion
  
+![Screenshot (67)](https://user-images.githubusercontent.com/46266421/66422101-eb764c00-e9bd-11e9-8367-7628346e2d12.png)
