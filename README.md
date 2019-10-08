@@ -1,7 +1,7 @@
-# Water Flow Mathodology
+# Water-Flow Methodology
 In waterfal mathodology each phase must be completed before the next phase begins and there is no overlapping in the phase
 ## Advantages
-Some advantages of Waterfall mathodology are following:
+Some advantages of Waterfall methodology are following:
 + Use Clear Structure
     Each project goes through following steps:
     + Requirements Gathering and Documentation
@@ -20,7 +20,7 @@ Some advantages of Waterfall mathodology are following:
    
 ![Screenshot (62)](https://user-images.githubusercontent.com/46266421/66420887-a9e4a180-e9bb-11e9-94d6-85f7e860679a.png)
 ## Disadvantages
- Some disadvantages of  Waterfall mathodology are following:
+ Some disadvantages of  Waterfall methodology are following:
  + Makes Changes Difficult
   
   Waterfall methodology involves some specific steps so, it leaves no room for unexpected changes.
