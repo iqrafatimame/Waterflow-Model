@@ -12,8 +12,9 @@ Some advantages of Waterfall mathodology are following:
     + Maintenance
 + Determines the End Goal Early
 
-   Unlike other methodologies like Scrum, which divides project up to indivisual sprints, Waterfall keeps focus on end goal all the time.
+    Unlike other methodologies like Scrum, which divides project up to indivisual sprints, Waterfall keeps focus on end goal all the time.
    
 + Transfers information Well
 
     Waterfall prioritizes accessible information so new additions to the team can get up to speed quickly if needed.
+   
