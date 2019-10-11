@@ -21,3 +21,5 @@ Some advantages of Waterfall methodology are following:
 + *Delays Testing After Completion*
  
 ![Screenshot (67)](https://user-images.githubusercontent.com/46266421/66422101-eb764c00-e9bd-11e9-8367-7628346e2d12.png)
+
+## End 
